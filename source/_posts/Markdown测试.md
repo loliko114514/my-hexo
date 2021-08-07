@@ -46,7 +46,7 @@ $$
 ---
 作者B站号：[摔碎的尸解仙][b站链接]
 
-[b站链接]:https://space.bilibili.com/12158244"摔碎的尸解仙"
+[b站链接]:https://space.bilibili.com/12158244
 
 
 *歪了***粗了**`printf("行内代码")`,<u>下划线</u>,:smile:笑了,$\theta=x^2$,
